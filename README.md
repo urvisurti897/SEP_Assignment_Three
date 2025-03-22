@@ -119,3 +119,19 @@ This project focuses on implementing a system to collect, process, and manage qu
     - Test for distribution imbalances in subsets individually.
 - **Actionability:** 
     - This task will ensure that splitting data across subsets requires maintenance. It is actionable by ensuring no group is over- or under-represented in the final data split.
+
+### 8: As a developer, implementing regular monitoring for biases
+- **Priority:** Ongoing
+- **Assumptions:** 
+    - The model and dataset changes over time that makes continuous monitoring mandatory
+    - Regular checks for bias are mandatory to identify any emerging issues after model deployment or during retrieval.
+- **Validations:** 
+    - Do we have a continuous monitoring plan in place to track emerging biases over time?
+    - Are we using real-time data or periodic reviews to assess bias in the dataset?
+- **Tasks:** 
+    - Set up a regular review schedule to monitor biases in the dataset 
+    - Develop automated tools to detect emerging biases in real-time.
+    - Create a feedback loop for correcting biases when detected in the dataset.
+    - Report any new bias issues and collaborate with teams to mitigate them.
+- **Actionability:** 
+    - This task will ensure that implementing real-time or periodic data are monitored. It is actionable by ensuring corrective actions are taken promptly.
