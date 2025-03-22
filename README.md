@@ -152,3 +152,19 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that verifying collected data is accurate, relevant and meets the AI model requirements. It is actionable by ensuring manual inspections has assured quality.
 
+### 10: Checking errors or unreliability in data by using both automated tool and manual method.
+- **Priority:** High
+- **Assumptions:** 
+    - Both automated and manual validation tools are available.
+    - Errors or unreliability in the data will affect negatively on  model outcomes.
+- **Validations:** 
+    - Are automated tools or manual method effective to identify errors?
+    - Is there any negative effect if there are errors or unreliability in the data for model outcomes?
+- **Tasks:** 
+    - Set up automated tool for error detection.
+    - Conduct regular manual audits for unreliability.
+    - Compare results from both methods and document errors.
+    - Correct data that mismatches and revalidate the dataset.
+- **Actionability:** 
+    - This task will ensure that both methods  are useful for unreliable data in model. It is actionable by utilizing both methods for data accuracy.
+
