@@ -217,3 +217,18 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that implementing encryption technique is safe for storing and transferring data. It is actionable by maintaining an updated inventory of systems and data that require encryption.
 
+### 14: Utilizing version control for data and code changes to trace updates and modifications.
+- **Priority:** High
+- **Assumptions:**
+    - Version control tools are integrated into the development process.
+    - Versioning will be done consistently across both data and code.
+- **Validations:** 
+    - How do we ensure version control is applied to both data and code changes?
+    - What is the process for rolling back versions if needed?
+- **Tasks:**
+    - Integrate version control into the development process.
+    - Version both code and data on regular basis.
+    - Track all changes made to the dataset or code.
+    - Set up automatic versioning for easy retrieval.
+- **Actionability:** 
+    - This task will ensure that using version control tool easily tracks updates and modifications. It is actionable by setting up version control tools for both data and code management.
