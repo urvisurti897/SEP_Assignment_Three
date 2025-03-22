@@ -107,3 +107,15 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that using oversampling or under sampling techniques on the dataset. It is actionable by balancing dataset and monitor model's performance after enhancement.
 
+### 7: Creating split format to keep data balanced 
+- **Priority:** High
+- **Assumptions:** 
+    - The dataset contains different categories that requires equal presentation  in all subsets 
+- **Validations:** 
+    - Are the splits logical and uniform across different subsets such as training, testing or validation?
+- **Tasks:** 
+    - Identify the most important categories that requires balanced representation across the datasets.
+    - Split the data into training, validation, and test sets while maintaining the balance. 
+    - Test for distribution imbalances in subsets individually.
+- **Actionability:** 
+    - This task will ensure that splitting data across subsets requires maintenance. It is actionable by ensuring no group is over- or under-represented in the final data split.
