@@ -168,3 +168,19 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that both methods  are useful for unreliable data in model. It is actionable by utilizing both methods for data accuracy.
 
+### 11: Creating dashboard to visualize data balance that provides clear and easy-to-use interface 
+- **Priority:** Medium
+- **Assumptions:** 
+    - Visual tools are available for data visualization.
+    - Stakeholders need clear insights into data balance for decision-making.
+- **Validations:** 
+    - Is the dashboard easy to understand and interpret by stakeholders?
+    - Are the key metrics displayed in the dashboard accurate and real-time?
+- **Tasks:** 
+    - Design the dashboard layout for easy navigation.
+    - Set up data feeds to ensure real-time updates.
+    - Test the dashboard for usability and clarity.
+    - Ensure access control to sensitive data on the dashboard.
+- **Actionability:** 
+    - This task will ensure that dashboard is useful for clear and convenient interface. It is actionable by developing and testing key metrics for data balance.
+
