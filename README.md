@@ -42,3 +42,20 @@ This project focuses on implementing a system to collect, process, and manage qu
     - Set up indexing to enhance speed and query performance 
 - **Actionability:**  
     - This task will ensure that correct technical implementation carries out for storing and linking data. It is actionable with setup of a relational database system and appropriate table design.
+
+### 3: Creating a standard format to ensure that analysis of data is easier and quicker.
+- **Priority:** Medium
+- **Assumptions:** 
+    - The data is standardized to a format that can be easily processed like JSON or CSV
+    - The data can be formatted in a way that question types and categories are logical 
+- **Validations:** 
+    - Is the data logical for all entries?
+    - Does the standardized data format support all types of analysis and data processing tasks?
+- **Tasks:** 
+    - Define a standardized format for data storage (e.g., CSV with specific fields for question, answer, and category).
+    - Implement scripts to convert data into standardized format after extracting or categorizing.
+    - Review the data to ensure defined format is followed 
+    - Modify the format structure where necessary changes meet s
+- **Actionability:**  
+    - This task will ensure that data remains logical and easy to analyze. It is actionable by creating a template and testing if the data matches the format for all entries.
+
