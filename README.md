@@ -74,3 +74,20 @@ This project focuses on implementing a system to collect, process, and manage qu
     - Set up a process for regularly checking for new duplicates as more data is collected.
 - **Actionability:**   
     - This task will ensure that data quality is mandatory. It is actionable by implementing automated tools to verify and eliminate duplicate entries.
+
+### 5: As a developer, utilizing tools to verify biases in data
+- **Priority:** High
+- **Assumptions:** 
+    - The dataset is big enough to require advanced algorithms for detecting bias 
+    - The AI models have already been trained or are in development, and bias detection tools are needed to assess the quality of data inputs
+- **Validations:** 
+    - Are the current algorithms capable of detecting different biases such as demographic bias or representation bias?
+    - Have we validated the findings from the bias detection tools with domain experts?
+- **Tasks:** 
+    - Identify potential bias factors such as race, gender, etc in the dataset.
+    - Implement advanced statistical methods like fairness factors and correlate tests to assess bias.
+    - Document and report the identified biases and its impact on model performance.
+    - Work with domain experts to clarify bias results and recommend corrective actions.
+- **Actionability:**  
+    - This task will ensure that tools is useful to detect biases in data. It is actionable by implementing automated tools to verify and eliminate duplicate entries.
+
