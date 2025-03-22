@@ -135,3 +135,20 @@ This project focuses on implementing a system to collect, process, and manage qu
     - Report any new bias issues and collaborate with teams to mitigate them.
 - **Actionability:** 
     - This task will ensure that implementing real-time or periodic data are monitored. It is actionable by ensuring corrective actions are taken promptly.
+
+### 9: Checking collected data from web is accurate, relevant and meets the AI model requirements.
+- **Priority:** High
+- **Assumptions:** 
+    - The web data is sourced from reputable platforms with relevant content.
+    - AI model requirements are well-defined, with clear parameters for acceptable data quality.
+- **Validations:** 
+    - Is the data relevant to the AI model’s principle?
+    - Is there any discrepancy between the data and the AI model's requirements?
+- **Tasks:** 
+    - Review the data collection criteria.
+    - Implement automated checks for data consistency.
+    - Conduct manual inspections to ensure accuracy.
+    - Log any issues or discrepancies for further investigation.
+- **Actionability:** 
+    - This task will ensure that verifying collected data is accurate, relevant and meets the AI model requirements. It is actionable by ensuring manual inspections has assured quality.
+
