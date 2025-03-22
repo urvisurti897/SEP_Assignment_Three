@@ -26,3 +26,19 @@ This project focuses on implementing a system to collect, process, and manage qu
     - Test and validate the information to confirm correct categorization of data
 - **Actionability:**
     - This task will ensure that correct data are collected and differentiated. It is actionable with data extracting and testing tools
+
+### 2: As a developer, creating a database helps to store questions and answers separately but linkified
+- **Priority:** High
+- **Assumptions:** 
+    - A database can handle relational data and supports indexing for quick retrieval of data
+    - A database has a unique identifier for linking question and answer pair together
+- **Validations:** 
+    - Does a database store question and answer in different table ?
+    - Does a database maintain links between question and answer ?
+- **Tasks:** 
+    - Design a database schema with different tables for questions and answers
+    - Define relations between tables using primary/foreign key 
+    - Set up a test dataset to ensure correct storage and linking
+    - Set up indexing to enhance speed and query performance 
+- **Actionability:**  
+    - This task will ensure that correct technical implementation carries out for storing and linking data. It is actionable with setup of a relational database system and appropriate table design.
