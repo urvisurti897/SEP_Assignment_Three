@@ -184,3 +184,20 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that dashboard is useful for clear and convenient interface. It is actionable by developing and testing key metrics for data balance.
 
+
+### 12: Gathering stakeholder’s feedback on system to engage with users and experts for improvement data management processes
+- **Priority:** High
+- **Assumptions:** 
+    - Stakeholders are willing to provide feedback.
+    - The feedback mechanism is designed for easy communication.
+- **Validations:** 
+    - How frequently should we request feedback from stakeholders?
+    - What methods are best for capturing actionable feedback?
+- **Tasks:** 
+    - Identify key stakeholders.
+    - Develop a feedback survey or system.
+    - Regularly request feedback from stakeholders.
+    - Implement changes based on actionable feedback.
+- **Actionability:** 
+    - This task will ensure that stakeholders feedback is important for enhancement in data management process. It is actionable by creating a feedback collection procedure and scheduling regular intervals for gathering feedback.
+
