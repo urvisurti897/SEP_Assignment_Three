@@ -201,3 +201,19 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:** 
     - This task will ensure that stakeholders feedback is important for enhancement in data management process. It is actionable by creating a feedback collection procedure and scheduling regular intervals for gathering feedback.
 
+### 13: Securing data by implementing encryption techniques for safe storage and transfer that protects both while stored and during communication 
+- **Priority:** High
+- **Assumptions:** 
+    - The necessary encryption technologies are available and integrated into systems.
+    - All sensitive data is consistently encrypted, and encryption keys are managed securely.
+- **Validations:** 
+    - Is all sensitive data encrypted both at rest and in transit?
+    - Are encryption protocols periodically tested to ensure they remain secure??
+- **Tasks:** 
+    - Implement industry-standard encryption algorithms for data at rest and in transit.
+    - Regularly rotate encryption keys to confirm data remains protected.
+    - Educate stakeholders on the importance of secure encryption key management.
+    - Monitor for suspicious action in encryption technologies and update them when necessary.
+- **Actionability:** 
+    - This task will ensure that implementing encryption technique is safe for storing and transferring data. It is actionable by maintaining an updated inventory of systems and data that require encryption.
+
