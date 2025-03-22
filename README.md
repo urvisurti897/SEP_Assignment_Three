@@ -91,3 +91,19 @@ This project focuses on implementing a system to collect, process, and manage qu
 - **Actionability:**  
     - This task will ensure that tools is useful to detect biases in data. It is actionable by implementing automated tools to verify and eliminate duplicate entries.
 
+### 6: Creating balanced data so that all groups are equally represented 
+- **Priority:** Medium
+- **Assumptions:** 
+    - The dataset has imbalanced groups that leads some groups being overrepresented or underrepresented
+    - The aim is to ensure a balanced representation across all key categories before model training
+- **Validations:** 
+    - Have we identified which groups are underrepresented or overrepresented in the dataset?
+    - Have we validated tested the performance of the model after applying balancing techniques like oversampling or under sampling?
+- **Tasks:** 
+    - Identify underrepresented and overrepresented categories in the dataset.
+    - Use oversampling for groups that are underrepresented, or under sampling that are overrepresented. 
+    - Make sure the data balancing process doesn't alter important patterns in the data. 
+    - Test the model's performance with the balanced data to check for improvement.
+- **Actionability:** 
+    - This task will ensure that using oversampling or under sampling techniques on the dataset. It is actionable by balancing dataset and monitor model's performance after enhancement.
+
